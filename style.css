@@ -1,0 +1,53 @@
+.background {
+    background-color: black;
+    justify-content: center;
+    display: flex;
+}
+
+.header{
+     display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+img{
+    display: flex;
+    width: 150px;
+    height: 80px;
+}
+
+.size{
+    width: 100px;
+    height: 100px;
+}
+
+.container{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 250px;
+}
+
+.text-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.input-modify{
+    margin-top: 12px;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
